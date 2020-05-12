@@ -12,5 +12,5 @@ The five-rings with the White background of the Olympic Symbol is the icon when 
 When I found the data from https://architectureofthegames.net/, it provides me the data of the Summer Olympic Games from year 1896 to 2016 but Winter Olympic Games from year 1924 to 2026. 
 
 ## MAP
-https://amandakaoo.github.io/olympic/
+https://amandakaoo.github.io/olympic-cities/
 
